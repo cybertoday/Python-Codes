@@ -1,0 +1,21 @@
+# You can do maths in programming too...
+
+addition = 5 + 5
+print(addition) # This will print 10.
+
+multiplication = 5 * 5
+print(multiplication) # This will print 25.
+
+division = 5 / 5
+print(division) # This will print 1.
+
+# You can also do maths without saving the result in a variable.
+
+print(100 - 42)
+
+# Here are some mathematical operators you should know about:
+# Addition [+], as in 5 + 5 = 10
+# Subtraction [-], as in 10 - 2 = 8
+# Multiplication [*], as in 5 * 5 = 25
+# Division [/], as in 10 / 2 = 5
+# Power Of [**] as in 2 ** 3 = 8
